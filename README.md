@@ -32,7 +32,7 @@ This project is a robotic arm system that uses computer vision to automatically 
 
 ## Demonstration
 
-![Project Demo](Video/output.gif)
+![Project Demo](output.gif)
 
 A full video of the project in action can be found here: [Project Video](https://youtu.be/taYmQBE4060)
 
